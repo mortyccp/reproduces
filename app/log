@@ -1,0 +1,19 @@
+yarn run v1.12.3
+$ vue-cli-service build
+
+Starting type checking and linting service...
+Using 1 worker with 2048MB memory limit
+ DONE  Compiled successfully in 6619ms11:27:06 AM
+
+  File                                 Size               Gzipped
+
+  dist/js/chunk-vendors.dba6330c.js    79.33 kb           28.56 kb
+  dist/js/app.e727569c.js              4.70 kb            1.69 kb
+  dist/css/app.3a745588.css            0.33 kb            0.23 kb
+
+  Images and other types of assets omitted.
+
+ DONE  Build complete. The dist directory is ready to be deployed.
+ INFO  Check out deployment instructions at https://cli.vuejs.org/guide/deployment.html
+      
+Done in 10.77s.
