@@ -5,6 +5,7 @@ module.exports = {
     'json',
     'vue',
     'ts',
+    'd.ts',
     'tsx'
   ],
   transform: {
