@@ -1,0 +1,11 @@
+{
+  "name": "reproduces",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mortyccp/reproduces.git",
+  "author": "mortyccp <mortyccp@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "quicktype": "^15.0.194"
+  }
+}
