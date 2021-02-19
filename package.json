@@ -1,0 +1,15 @@
+{
+  "name": "reproduces",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mortyccp/reproduces.git",
+  "author": "Morty Choi <morty.choi@scmp.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/prosemirror-state": "1.2.5",
+    "@types/prosemirror-transform": "1.1.1",
+    "prosemirror-state": "1.3.3",
+    "prosemirror-transform": "1.2.7",
+    "tsc": "^1.20150623.0"
+  }
+}
